@@ -3,7 +3,7 @@
 # Strategic Business Case Study & Technical Report
 
 
-*Project Title:** End-to-End Predictive Analytics & Operational Bottleneck Optimization in Global E-Commerce Fulfillment
+**Project Title:** End-to-End Predictive Analytics & Operational Bottleneck Optimization in Global E-Commerce Fulfillment
 
 ---
 
